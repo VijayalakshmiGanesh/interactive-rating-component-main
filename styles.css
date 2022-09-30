@@ -170,6 +170,7 @@ ul {
         top: 0;
         bottom: 0;
         position: absolute;
-        margin: auto 1.1rem;
+        margin: auto 1.3rem;
+        width: 19.3rem;
     }
 }
