@@ -148,8 +148,13 @@ ul {
 
 .attribution {
     font-size: 11px;
-    text-align: center;
+
     color: var(--White);
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
 }
 
 .attribution a {
